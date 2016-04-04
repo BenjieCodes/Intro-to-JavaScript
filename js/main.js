@@ -45,13 +45,13 @@ math = high - "5";
 
 // Create a variable to calculate Tim's age
 // The answer should read "Tim is 33 years old"
-// The answer shoud not be written in a comment.
+// The answer should not be written in a comment.
 var born = 1983;
 var today = 2016;
 
 // Answers Below:
-
-
+var timsAge = born - today;
+var howOld = "Tim is " + timsAge + " years old";
 
 // Store some information following in variables.
 var yourName;
@@ -59,7 +59,8 @@ var instructorName;
 
 // Update the variables above so the expression reads correctly.
 // Answers Below:
-
+var yourName = "Benjie";
+var instructorName = "Tim";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
