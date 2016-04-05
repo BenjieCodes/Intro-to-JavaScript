@@ -50,9 +50,9 @@ var born = 1983;
 var today = 2016;
 
 // Answers Below:
-var timsAge = born - today;
+var timsAge = today - born;
 var howOld = "Tim is " + timsAge + " years old";
-
+console.log (howOld);
 // Store some information following in variables.
 var yourName;
 var instructorName;
@@ -64,5 +64,5 @@ var instructorName = "Tim";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
-
+console.log (statement);
 // blogsite: https://medium.com/@benjiecodes/what-even-is-code-ad79208f4bd3#.ufbjdhgpf
