@@ -64,3 +64,5 @@ var instructorName = "Tim";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
+
+// blogsite: https://medium.com/@benjiecodes/what-even-is-code-ad79208f4bd3#.ufbjdhgpf
